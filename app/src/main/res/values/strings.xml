@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FLIPit</string>
+    <string name="ring_mode">RING</string>
+    <string name="ok">Next</string>
+    <string name="cancel">Deny</string>
+    <string name="dialog_message">Permission Required</string>
+    <string name="dialog_title">Please allow DO NOT DISTURB permission for FLIPit app in the next page.</string>
+</resources>
